@@ -1,0 +1,7 @@
+{
+  "appSettings": {
+    "ChannelId": "channelId",
+    "WriteKey": "writeKey",
+    "ReadKey": "readKey"
+  }
+}
